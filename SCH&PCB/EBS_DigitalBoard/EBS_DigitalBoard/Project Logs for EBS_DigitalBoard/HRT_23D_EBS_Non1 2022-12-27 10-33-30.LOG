@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=SDC_AS Pin=J2-2
+Removed Pin From Net: NetName=brake_control2 Pin=J2-4
+Added Pin To Net: NetName=brake_control2 Pin=J2-2
+Added Pin To Net: NetName=SDC_AS Pin=J2-4

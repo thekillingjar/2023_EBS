@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=CAN_EXT_H Pin=RQ-3
+Removed Pin From Net: NetName=CAN_EXT_L Pin=RQ-4
+Added Pin To Net: NetName=CAN_EXT_L Pin=RQ-3
+Added Pin To Net: NetName=CAN_EXT_H Pin=RQ-4
+Added Pin To Net: NetName=b\r\a\k\e\_\3\V\3\ Pin=U5-5

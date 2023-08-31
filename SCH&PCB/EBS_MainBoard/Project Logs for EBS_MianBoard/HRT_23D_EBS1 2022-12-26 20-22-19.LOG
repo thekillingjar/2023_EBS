@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=A\S\_\m\o\d\e\_\3\V\3\ Pin=U5-4
+Removed Pin From Net: NetName=b\r\a\k\e\_\3\V\3\ Pin=U5-5
+Added Pin To Net: NetName=A\S\_\m\o\d\e\_\3\V\3\ Pin=U5-3
+Added Pin To Net: NetName=b\r\a\k\e\_\3\V\3\ Pin=U5-4
+Added Pin To Net: NetName=SDC_AS_3V3 Pin=U5-5

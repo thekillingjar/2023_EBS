@@ -1,0 +1,46 @@
+Change Component Footprint: Designator=J4 Old Footprint=KF2EDGK5.0-2P New Footprint=KF2EDGK5.08W-2P
+Added Component: Designator=J5(Pin HDR1X4/2.54mm-S)
+Added Component: Designator=J6(Pin HDR1X4/2.54mm-S)
+Added Component: Designator=J7(Pin HDR1X4/2.54mm-S)
+Added Component: Designator=R6(0805R)
+Added Component: Designator=R11(0805R)
+Added Component: Designator=R12(0805R)
+Added Component: Designator=R15(0805R)
+Added Component: Designator=R16(0805R)
+Added Component: Designator=R17(0805R)
+Added Component: Designator=U?(SOP-23)
+Added Pin To Net: NetName=b\r\a\k\e\_\3\V\3\ Pin=*1-5
+Added Pin To Net: NetName=VCC_5V Pin=J5-1
+Added Pin To Net: NetName=VCC_5V Pin=J5-2
+Added Pin To Net: NetName=solenoid_VSS Pin=J5-3
+Added Pin To Net: NetName=solenoid_VSS Pin=J5-4
+Added Pin To Net: NetName=SDC_AS_5V Pin=J6-1
+Added Pin To Net: NetName=brake_control_5V Pin=J6-2
+Added Pin To Net: NetName=watchdog_5V Pin=J7-1
+Added Pin To Net: NetName=shutdown_circuit_5V Pin=J7-2
+Added Pin To Net: NetName=A\S\_\m\o\d\e\_\5\V\ Pin=J7-3
+Added Pin To Net: NetName=b\r\a\k\e\_\5\V\ Pin=J7-4
+Added Pin To Net: NetName=actuator_24V Pin=R6-1
+Added Pin To Net: NetName=solenoid_VDD Pin=R6-2
+Added Pin To Net: NetName=shutdown_circuit_5V Pin=R11-1
+Added Pin To Net: NetName=solenoid_VSS Pin=R11-2
+Added Pin To Net: NetName=NetC12_2 Pin=R12-1
+Added Pin To Net: NetName=CAN_EXT_L Pin=R15-1
+Added Pin To Net: NetName=NetC12_2 Pin=R15-2
+Added Pin To Net: NetName=VCC_3V3 Pin=R16-1
+Added Pin To Net: NetName=VCC_3V3_CAN Pin=R16-2
+Added Pin To Net: NetName=VCC_5V Pin=R17-1
+Added Pin To Net: NetName=VCC_5V_CAN Pin=R17-2
+Added Pin To Net: NetName=CAN_EXT_H Pin=U?-1
+Added Pin To Net: NetName=CAN_EXT_L Pin=U?-2
+Added Pin To Net: NetName=solenoid_VSS Pin=U?-3
+Added Member To Class: ClassName=HRT_23D_EBS1.0 Member=Component J5 Pin HDR1X4
+Added Member To Class: ClassName=HRT_23D_EBS1.0 Member=Component J6 Pin HDR1X4
+Added Member To Class: ClassName=HRT_23D_EBS1.0 Member=Component J7 Pin HDR1X4
+Added Member To Class: ClassName=HRT_23D_EBS1.0 Member=Component R6 10K
+Added Member To Class: ClassName=HRT_23D_EBS1.0 Member=Component R11 1K
+Added Member To Class: ClassName=HRT_23D_EBS1.0 Member=Component R12 60R
+Added Member To Class: ClassName=HRT_23D_EBS1.0 Member=Component R15 60R
+Added Member To Class: ClassName=HRT_23D_EBS1.0 Member=Component R16 0R
+Added Member To Class: ClassName=HRT_23D_EBS1.0 Member=Component R17 0R
+Added Member To Class: ClassName=HRT_23D_EBS1.0 Member=Component U? NUP2105LT1G

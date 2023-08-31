@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=USART3_TX Pin=J1-2
+Removed Pin From Net: NetName=USART3_RX Pin=J1-3
+Removed Pin From Net: NetName=GND Pin=J1-4
+Removed Pin From Net: NetName=GND Pin=U4-9
+Change Component Designator: OldDesignator=EBS1 NewDesignator=J9
+Change Component Designator: OldDesignator=EBS2 NewDesignator=J10
+Change Component Designator: OldDesignator=MCU PWR NewDesignator=LED5
+Change Component Designator: OldDesignator=PB13 NewDesignator=LED6
+Change Component Designator: OldDesignator=SDC NewDesignator=J4
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=USART3_TX Pin=J1-3
+Added Pin To Net: NetName=USART3_RX Pin=J1-4

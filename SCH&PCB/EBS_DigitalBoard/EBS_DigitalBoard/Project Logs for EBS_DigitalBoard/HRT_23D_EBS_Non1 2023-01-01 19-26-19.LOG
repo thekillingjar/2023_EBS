@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=SDC_AS Pin=U3-1
+Added Pin To Net: NetName=SDC_AS Pin=U3-9
+Added Pin To Net: NetName=AND_3A | OR_4A Pin=U2-9
+Added Pin To Net: NetName=AND_3A | OR_4A Pin=U3-6
+Added Net: Name=AND_3A | OR_4A

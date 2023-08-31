@@ -1,0 +1,91 @@
+C51 COMPILER V9.54   MAIN                                                                  03/10/2023 01:20:40 PAGE 1   
+
+
+C51 COMPILER V9.54, COMPILATION OF MODULE MAIN
+OBJECT MODULE PLACED IN .\Objects\main.obj
+COMPILER INVOKED BY: S:\Keil_v5\C51\BIN\C51.EXE main.c OPTIMIZE(8,SPEED) BROWSE DEBUG OBJECTEXTEND PRINT(.\Listings\main
+                    -.lst) TABS(2) OBJECT(.\Objects\main.obj)
+
+line level    source
+
+   1          
+   2          // use UTF-8 encode
+   3          #include <reg51.h>
+   4          #define shutdown_circuit 0 // 1->sdc_close
+   5          #define reset 1 // 0->reset
+   6          #define watchdog_out 2 // 0->watchdog triggle
+   7          #define AS_mode 3 // 0->as_hv
+   8          #define brake1 4 // 1->no brake
+   9          #define brake2 5
+  10          void delay(int k) {
+  11   1        int i, j;
+  12   1        while (k--) {
+  13   2          for (i = 0; i < 0x0f; ++i)
+  14   2            for (j = 0; j < 0x2f; ++j);
+  15   2        }
+  16   1      }
+  17          // 
+  18          void init_state() {
+  19   1        P0 = (0 << shutdown_circuit) | (0 << reset) | (1 << watchdog_out) | (1 << AS_mode) | (1 << brake1) | (1 <
+             -< brake2);
+  20   1      }
+  21          //测试低压->无人高压->低压->无人/有人高压
+  22          void LV_state() {
+  23   1        P0 = (0 << shutdown_circuit) | (1 << reset) | (1 << watchdog_out) | (1 << AS_mode) | (1 << brake1) | (1 <
+             -< brake2);
+  24   1      }
+  25          void AS_HV_state() {
+  26   1        P0 = (1 << shutdown_circuit) | (1 << reset) | (1 << watchdog_out) | (1 << AS_mode) | (1 << brake1) | (1 <
+             -< brake2);
+  27   1        delay(1);
+  28   1        P0 = (1 << shutdown_circuit) | (1 << reset) | (1 << watchdog_out) | (0 << AS_mode) | (1 << brake1) | (1 <
+             -< brake2);
+  29   1      }
+  30          void AS_Emergency_state1() {
+  31   1        P0 = (0 << shutdown_circuit) | (1 << reset) | (1 << watchdog_out) | (0 << AS_mode) | (1 << brake1) | (1 <
+             -< brake2);
+  32   1      }
+  33          void AS_Emergency_state2() {
+  34   1        P0 = (0 << shutdown_circuit) | (1 << reset) | (0 << watchdog_out) | (0 << AS_mode) | (1 << brake1) | (1 <
+             -< brake2);
+  35   1      }
+  36          void M_HV_State() {
+  37   1        P0 = (1 << shutdown_circuit) | (1 << reset) | (1 << watchdog_out) | (1 << AS_mode) | (1 << brake1) | (1 <
+             -< brake2);
+  38   1      }
+  39          void watchdog_triggle() {
+  40   1        P0 = (1 << shutdown_circuit) | (1 << reset) | (0 << watchdog_out) | (1 << AS_mode) | (1 << brake1) | (1 <
+             -< brake2);
+  41   1      }
+  42          int main()
+  43          {
+  44   1      /* Insert your code here. */
+  45   1        init_state();
+  46   1        delay(1);
+C51 COMPILER V9.54   MAIN                                                                  03/10/2023 01:20:40 PAGE 2   
+
+  47   1        LV_state();
+  48   1        delay(1);
+  49   1        M_HV_State();
+  50   1        delay(1);
+  51   1        watchdog_triggle();
+  52   1      //AS_HV_state();
+  53   1      //delay(1);
+  54   1      //AS_Emergency_state2();
+  55   1        while (1) {
+  56   2        }
+  57   1      }
+
+
+MODULE INFORMATION:   STATIC OVERLAYABLE
+   CODE SIZE        =    107    ----
+   CONSTANT SIZE    =   ----    ----
+   XDATA SIZE       =   ----    ----
+   PDATA SIZE       =   ----    ----
+   DATA SIZE        =   ----    ----
+   IDATA SIZE       =   ----    ----
+   BIT SIZE         =   ----    ----
+END OF MODULE INFORMATION.
+
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  0 ERROR(S)

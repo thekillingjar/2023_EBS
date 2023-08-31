@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=OR_1A Pin=U2-1
+Removed Pin From Net: NetName=OR_1B Pin=U2-2
+Removed Pin From Net: NetName=2S\D\ Pin=U2-3
+Added Pin To Net: NetName=OR_1A Pin=U2-4
+Added Pin To Net: NetName=OR_1B Pin=U2-5
+Added Pin To Net: NetName=2S\D\ Pin=U2-6

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=shutdown_circuit Pin=U1-1
+Removed Pin From Net: NetName=1S\D\ Pin=U1-2
+Added Pin To Net: NetName=1S\D\ Pin=U1-8
+Added Pin To Net: NetName=shutdown_circuit Pin=U1-9

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=solenoid1_VSS Pin=U4-9
+Added Pin To Net: NetName=solenoid1_VSS Pin=P1-16
+Added Pin To Net: NetName=solenoid1_VSS Pin=P1-17
+Added Pin To Net: NetName=solenoid1_VSS Pin=P1-18

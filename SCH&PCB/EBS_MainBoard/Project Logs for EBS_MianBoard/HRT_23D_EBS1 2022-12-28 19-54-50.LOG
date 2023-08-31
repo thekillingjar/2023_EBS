@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=VCC_5V Pin=P1-1
+Removed Pin From Net: NetName=VCC_5V Pin=P1-1
+Removed Pin From Net: NetName=solenoid1_VSS Pin=P1-2
+Added Pin To Net: NetName=solenoid1_VSS Pin=P1-1
+Added Pin To Net: NetName=solenoid1_VSS Pin=P1-1
+Added Pin To Net: NetName=VCC_5V Pin=P1-2

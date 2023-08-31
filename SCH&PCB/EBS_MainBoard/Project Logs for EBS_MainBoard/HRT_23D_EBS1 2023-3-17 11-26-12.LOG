@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=U4-9
+Change Component Footprint: Designator=R45 Old Footprint=0603R New Footprint=0805R
+Change Component Footprint: Designator=R46 Old Footprint=0603R New Footprint=0805R
+Change Class Name : Old Net Name=HRT_23D_EBS1.0 New Net Name=HRT_23D_EBS1.1

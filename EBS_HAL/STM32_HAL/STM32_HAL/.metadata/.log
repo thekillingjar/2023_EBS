@@ -1,0 +1,16 @@
+!SESSION 2023-03-12 14:31:23.787 -----------------------------------------------
+eclipse.buildId=Version 1.11.2
+java.version=11.0.16
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Framework arguments:  D:\HRT\23D_EBS\EBS_HAL\STM32_HAL\STM32_HAL\.project
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 D:\HRT\23D_EBS\EBS_HAL\STM32_HAL\STM32_HAL\.project
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-03-12 14:31:49.383
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-03-12 14:31:49.453
+!MESSAGE Log4j initialized with config file D:\HRT\23D_EBS\EBS_HAL\STM32_HAL\STM32_HAL\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-03-12 14:31:51.475
+!MESSAGE Started RMI Server, listening on port 41337

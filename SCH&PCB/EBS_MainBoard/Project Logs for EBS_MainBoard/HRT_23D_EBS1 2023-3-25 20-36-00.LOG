@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C32
+Change Component Designator: OldDesignator=R? NewDesignator=R49
+Change Component Designator: OldDesignator=R? NewDesignator=R50
+Added Member To Class: ClassName=HRT_23D_EBS1.1 Member=Component R50 2K

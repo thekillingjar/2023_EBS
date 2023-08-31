@@ -1,0 +1,468 @@
+Added Component: Designator=*(SSOP20)
+Added Component: Designator=C?(C 0805_M)
+Added Component: Designator=C?(C 0805_M)
+Added Component: Designator=C?(C 0805_M)
+Added Component: Designator=C?(C 0805_M)
+Added Component: Designator=C?(C 0805_M)
+Added Component: Designator=C?(C 0805_M)
+Added Component: Designator=C?(C 0805_M)
+Added Component: Designator=C?(C 0805_M)
+Added Component: Designator=C?(C 0805_M)
+Added Component: Designator=C?(C 0805_M)
+Added Component: Designator=C?(C 0805_M)
+Added Component: Designator=C?(C 0805_M)
+Added Component: Designator=C?(C 0805_M)
+Added Component: Designator=C?(C 0805_M)
+Added Component: Designator=C?(C 0805_M)
+Added Component: Designator=C?(C 0805_M)
+Added Component: Designator=C?(C 0805_M)
+Added Component: Designator=C?(C 0805_M)
+Added Component: Designator=C?(C 0805_M)
+Added Component: Designator=C?(C 0805_M)
+Added Component: Designator=C?(C 0805_M)
+Added Component: Designator=C?(C 0805_M)
+Added Component: Designator=C?(C 0805_M)
+Added Component: Designator=C?(C 0805_M)
+Added Component: Designator=C?(C 0805_M)
+Added Component: Designator=C?(C 0805_M)
+Added Component: Designator=C?(C 0805_M)
+Added Component: Designator=C?(C 0805_M)
+Added Component: Designator=D?(SMA)
+Add component (AddParameter): Name = "BOM名称"; Value = "肖特基二极管"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "属性"; Value = "40V/1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=D?(SMA)
+Add component (AddParameter): Name = "BOM名称"; Value = "肖特基二极管"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "属性"; Value = "40V/1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=D?(SMA)
+Add component (AddParameter): Name = "BOM名称"; Value = "肖特基二极管"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "属性"; Value = "40V/1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=D?(SMA)
+Add component (AddParameter): Name = "BOM名称"; Value = "肖特基二极管"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "属性"; Value = "40V/1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=D?(SMA)
+Add component (AddParameter): Name = "BOM名称"; Value = "肖特基二极管"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "属性"; Value = "40V/1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=E?(CM A(3*5.4))
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电解电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=E?(CD A(3216))
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片钽电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=E?(CD A(3216))
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片钽电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=J?(Pin HDR1X4/2.54mm-S)
+Added Component: Designator=J?(SOP4)
+Add component (AddParameter): Name = "BOM名称"; Value = "光耦"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=J?(KF2EDGK5.0-2P)
+Added Component: Designator=J?(Pin HDR1X4/2.54mm-S)
+Added Component: Designator=JK?(HF46-xx-HS1)
+Add component (AddParameter): Name = "BOM名称"; Value = "24V继电器"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=JK?(HF46-xx-HS1)
+Add component (AddParameter): Name = "BOM名称"; Value = "5V继电器"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=L?(L 0805_M)
+Added Component: Designator=L?(CD31)
+Add component (AddParameter): Name = "BOM名称"; Value = "功率电感"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=LED?(LED 0805R)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=LED?(LED 0805R)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=LED?(LED 0805R)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=P?(JAE_MX34_2.2_24 - duplicate)
+Added Component: Designator=Q?(SOT-23)
+Added Component: Designator=Q?(SOT23)
+Added Component: Designator=R1(0805R)
+Added Component: Designator=R?(0805R)
+Added Component: Designator=R?(0805R)
+Added Component: Designator=R?(0805R)
+Added Component: Designator=R?(0805R)
+Added Component: Designator=R?(0805R)
+Added Component: Designator=R?(0805R)
+Added Component: Designator=R?(0805R)
+Added Component: Designator=R?(0805R)
+Added Component: Designator=R?(0805R)
+Added Component: Designator=R?(0805R)
+Added Component: Designator=R?(0805R)
+Added Component: Designator=R?(0805R)
+Added Component: Designator=R?(0805R)
+Added Component: Designator=R?(0805R)
+Added Component: Designator=R?(0805R)
+Added Component: Designator=R?(0805R)
+Added Component: Designator=R?(0805R)
+Added Component: Designator=R?(0805R)
+Added Component: Designator=R?(0805R)
+Added Component: Designator=R?(0805R)
+Added Component: Designator=R?(0805R)
+Added Component: Designator=R?(0805R)
+Added Component: Designator=R?(0805R)
+Added Component: Designator=R?(0805R)
+Added Component: Designator=R?(0805R)
+Added Component: Designator=R?(0805R)
+Added Component: Designator=R?(0805R)
+Added Component: Designator=RQ(4532)
+Added Component: Designator=S?(TSW SMD-3*6*2.5)
+Added Component: Designator=U?(LQFP48 7X7)
+Added Component: Designator=U?(SOP8)
+Added Component: Designator=U?(SOP8-Pad)
+Added Component: Designator=V?(SOT223_M)
+Add component (AddParameter): Name = "BOM名称"; Value = "稳压芯片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=X?(OSC 5032-2P)
+Added Pin To Net: NetName=A\S\_\m\o\d\e\_\3\V\3\ Pin=*-4
+Added Pin To Net: NetName=A\S\_\m\o\d\e\_\3\V\3\ Pin=U?-26
+Added Net: Name=A\S\_\m\o\d\e\_\3\V\3\
+Added Pin To Net: NetName=A\S\_\m\o\d\e\_\5\V\ Pin=*-18
+Added Pin To Net: NetName=A\S\_\m\o\d\e\_\5\V\ Pin=J?-3
+Added Net: Name=A\S\_\m\o\d\e\_\5\V\
+Added Pin To Net: NetName=actuator_24V Pin=JK?-4
+Added Pin To Net: NetName=actuator_24V Pin=R?-2
+Added Pin To Net: NetName=actuator_24V Pin=R?-2
+Added Net: Name=actuator_24V
+Added Pin To Net: NetName=b\r\a\k\e\_\3\V\3\ Pin=*-5
+Added Pin To Net: NetName=b\r\a\k\e\_\3\V\3\ Pin=U?-27
+Added Net: Name=b\r\a\k\e\_\3\V\3\
+Added Pin To Net: NetName=b\r\a\k\e\_\5\V\ Pin=*-17
+Added Pin To Net: NetName=b\r\a\k\e\_\5\V\ Pin=J?-4
+Added Net: Name=b\r\a\k\e\_\5\V\
+Added Pin To Net: NetName=brake_control_3V3 Pin=*-6
+Added Pin To Net: NetName=brake_control_3V3 Pin=U?-41
+Added Net: Name=brake_control_3V3
+Added Pin To Net: NetName=brake_control_5V Pin=*-15
+Added Pin To Net: NetName=brake_control_5V Pin=J?-2
+Added Pin To Net: NetName=brake_control_5V Pin=R?-2
+Added Pin To Net: NetName=brake_control_5V Pin=R?-2
+Added Net: Name=brake_control_5V
+Added Pin To Net: NetName=CAN_EXT_H Pin=C?-1
+Added Pin To Net: NetName=CAN_EXT_H Pin=R?-2
+Added Pin To Net: NetName=CAN_EXT_H Pin=RQ-3
+Added Pin To Net: NetName=CAN_EXT_H Pin=U?-1
+Added Net: Name=CAN_EXT_H
+Added Pin To Net: NetName=CAN_EXT_L Pin=C?-1
+Added Pin To Net: NetName=CAN_EXT_L Pin=R?-1
+Added Pin To Net: NetName=CAN_EXT_L Pin=U?-2
+Added Net: Name=CAN_EXT_L
+Added Pin To Net: NetName=CAN_RX_MCU Pin=U?-4
+Added Pin To Net: NetName=CAN_RX_MCU Pin=U?-33
+Added Net: Name=CAN_RX_MCU
+Added Pin To Net: NetName=CAN_TX_MCU Pin=U?-1
+Added Pin To Net: NetName=CAN_TX_MCU Pin=U?-32
+Added Net: Name=CAN_TX_MCU
+Added Pin To Net: NetName=GAS_ADC Pin=C?-1
+Added Pin To Net: NetName=GAS_ADC Pin=R?-1
+Added Pin To Net: NetName=GAS_ADC Pin=R?-2
+Added Pin To Net: NetName=GAS_ADC Pin=U?-15
+Added Net: Name=GAS_ADC
+Added Pin To Net: NetName=gas Pin=P?-14
+Added Pin To Net: NetName=gas Pin=R?-2
+Added Net: Name=gas
+Added Pin To Net: NetName=GND_A Pin=C?-2
+Added Pin To Net: NetName=GND_A Pin=C?-2
+Added Pin To Net: NetName=GND_A Pin=C?-2
+Added Pin To Net: NetName=GND_A Pin=C?-2
+Added Pin To Net: NetName=GND_A Pin=C?-2
+Added Pin To Net: NetName=GND_A Pin=L?-1
+Added Pin To Net: NetName=GND_A Pin=P?-3
+Added Pin To Net: NetName=GND_A Pin=P?-6
+Added Pin To Net: NetName=GND_A Pin=P?-9
+Added Pin To Net: NetName=GND_A Pin=P?-12
+Added Pin To Net: NetName=GND_A Pin=P?-15
+Added Pin To Net: NetName=GND_A Pin=R?-1
+Added Pin To Net: NetName=GND_A Pin=R?-1
+Added Pin To Net: NetName=GND_A Pin=R?-1
+Added Pin To Net: NetName=GND_A Pin=R?-1
+Added Pin To Net: NetName=GND_A Pin=R?-1
+Added Pin To Net: NetName=GND_A Pin=U?-8
+Added Net: Name=GND_A
+Added Pin To Net: NetName=LB_ADC Pin=C?-1
+Added Pin To Net: NetName=LB_ADC Pin=R?-1
+Added Pin To Net: NetName=LB_ADC Pin=R?-2
+Added Pin To Net: NetName=LB_ADC Pin=U?-13
+Added Net: Name=LB_ADC
+Added Pin To Net: NetName=LB_oil Pin=P?-8
+Added Pin To Net: NetName=LB_oil Pin=R?-2
+Added Net: Name=LB_oil
+Added Pin To Net: NetName=LF_ADC Pin=C?-1
+Added Pin To Net: NetName=LF_ADC Pin=R?-1
+Added Pin To Net: NetName=LF_ADC Pin=R?-2
+Added Pin To Net: NetName=LF_ADC Pin=U?-11
+Added Net: Name=LF_ADC
+Added Pin To Net: NetName=LF_oil Pin=P?-2
+Added Pin To Net: NetName=LF_oil Pin=R?-2
+Added Net: Name=LF_oil
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=Q?-B
+Added Pin To Net: NetName=NetC?_1 Pin=R?-1
+Added Pin To Net: NetName=NetC?_1 Pin=R?-2
+Added Net: Name=NetC?_1
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=D?-2
+Added Pin To Net: NetName=NetC?_2 Pin=L?-1
+Added Pin To Net: NetName=NetC?_2 Pin=U?-8
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=NetD?_1 Pin=D?-1
+Added Pin To Net: NetName=NetD?_1 Pin=JK?-1
+Added Pin To Net: NetName=NetD?_1 Pin=LED?-2
+Added Pin To Net: NetName=NetD?_1 Pin=R?-2
+Added Net: Name=NetD?_1
+Added Pin To Net: NetName=NetJ?_1 Pin=J?-1
+Added Pin To Net: NetName=NetJ?_1 Pin=R?-1
+Added Net: Name=NetJ?_1
+Added Pin To Net: NetName=NetJ?_2 Pin=J?-2
+Added Pin To Net: NetName=NetJ?_2 Pin=R?-1
+Added Net: Name=NetJ?_2
+Added Pin To Net: NetName=NetLED?_1 Pin=LED?-1
+Added Pin To Net: NetName=NetLED?_1 Pin=R?-1
+Added Net: Name=NetLED?_1
+Added Pin To Net: NetName=NetLED?_2 Pin=LED?-2
+Added Pin To Net: NetName=NetLED?_2 Pin=Q?-D
+Added Net: Name=NetLED?_2
+Added Pin To Net: NetName=NetQ?_C Pin=Q?-C
+Added Pin To Net: NetName=NetQ?_C Pin=R?-2
+Added Net: Name=NetQ?_C
+Added Pin To Net: NetName=NetQ?_G Pin=Q?-G
+Added Pin To Net: NetName=NetQ?_G Pin=R?-1
+Added Net: Name=NetQ?_G
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-2
+Added Pin To Net: NetName=NetR?_1 Pin=U?-4
+Added Net: Name=NetR?_1
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=U?-44
+Added Net: Name=NetR?_2
+Added Pin To Net: NetName=NetRQ_1 Pin=RQ-1
+Added Pin To Net: NetName=NetRQ_1 Pin=U?-7
+Added Net: Name=NetRQ_1
+Added Pin To Net: NetName=NetRQ_2 Pin=RQ-2
+Added Pin To Net: NetName=NetRQ_2 Pin=U?-6
+Added Net: Name=NetRQ_2
+Added Pin To Net: NetName=OSCIN Pin=C?-2
+Added Pin To Net: NetName=OSCIN Pin=U?-5
+Added Pin To Net: NetName=OSCIN Pin=X?-1
+Added Net: Name=OSCIN
+Added Pin To Net: NetName=OSCOUT Pin=C?-2
+Added Pin To Net: NetName=OSCOUT Pin=U?-6
+Added Pin To Net: NetName=OSCOUT Pin=X?-2
+Added Net: Name=OSCOUT
+Added Pin To Net: NetName=RB_ADC Pin=C?-1
+Added Pin To Net: NetName=RB_ADC Pin=R?-1
+Added Pin To Net: NetName=RB_ADC Pin=R?-2
+Added Pin To Net: NetName=RB_ADC Pin=U?-14
+Added Net: Name=RB_ADC
+Added Pin To Net: NetName=RB_oil Pin=P?-11
+Added Pin To Net: NetName=RB_oil Pin=R?-2
+Added Net: Name=RB_oil
+Added Pin To Net: NetName=RES2- Pin=JK?-3
+Added Net: Name=RES2-
+Added Pin To Net: NetName=RESET Pin=C?-2
+Added Pin To Net: NetName=RESET Pin=D?-1
+Added Pin To Net: NetName=RESET Pin=R1-1
+Added Pin To Net: NetName=RESET Pin=S?-1
+Added Pin To Net: NetName=RESET Pin=U?-7
+Added Net: Name=RESET
+Added Pin To Net: NetName=RF_ADC Pin=C?-1
+Added Pin To Net: NetName=RF_ADC Pin=R?-1
+Added Pin To Net: NetName=RF_ADC Pin=R?-2
+Added Pin To Net: NetName=RF_ADC Pin=U?-12
+Added Net: Name=RF_ADC
+Added Pin To Net: NetName=RF_oil Pin=P?-5
+Added Pin To Net: NetName=RF_oil Pin=R?-2
+Added Net: Name=RF_oil
+Added Pin To Net: NetName=SC_out Pin=D?-2
+Added Pin To Net: NetName=SC_out Pin=JK?-2
+Added Pin To Net: NetName=SC_out Pin=R?-2
+Added Net: Name=SC_out
+Added Pin To Net: NetName=SDC_AS_3V3 Pin=*-5
+Added Pin To Net: NetName=SDC_AS_3V3 Pin=U?-42
+Added Net: Name=SDC_AS_3V3
+Added Pin To Net: NetName=SDC_AS_5V Pin=*-16
+Added Pin To Net: NetName=SDC_AS_5V Pin=J?-1
+Added Pin To Net: NetName=SDC_AS_5V Pin=R?-2
+Added Net: Name=SDC_AS_5V
+Added Pin To Net: NetName=SDC_IN Pin=J?-2
+Added Pin To Net: NetName=SDC_IN Pin=JK?-3
+Added Net: Name=SDC_IN
+Added Pin To Net: NetName=SDC_OUT Pin=J?-1
+Added Pin To Net: NetName=SDC_OUT Pin=JK?-4
+Added Net: Name=SDC_OUT
+Added Pin To Net: NetName=shutdown_circuit_5V Pin=J?-2
+Added Pin To Net: NetName=shutdown_circuit_5V Pin=J?-3
+Added Pin To Net: NetName=shutdown_circuit_5V Pin=R?-2
+Added Net: Name=shutdown_circuit_5V
+Added Pin To Net: NetName=solenoid_VDD Pin=D?-2
+Added Pin To Net: NetName=solenoid_VDD Pin=LED?-1
+Added Pin To Net: NetName=solenoid_VDD Pin=P?-20
+Added Pin To Net: NetName=solenoid_VDD Pin=R?-1
+Added Net: Name=solenoid_VDD
+Added Pin To Net: NetName=solenoid_VSS Pin=*-11
+Added Pin To Net: NetName=solenoid_VSS Pin=C?-1
+Added Pin To Net: NetName=solenoid_VSS Pin=C?-1
+Added Pin To Net: NetName=solenoid_VSS Pin=C?-1
+Added Pin To Net: NetName=solenoid_VSS Pin=C?-1
+Added Pin To Net: NetName=solenoid_VSS Pin=C?-1
+Added Pin To Net: NetName=solenoid_VSS Pin=C?-1
+Added Pin To Net: NetName=solenoid_VSS Pin=C?-1
+Added Pin To Net: NetName=solenoid_VSS Pin=C?-1
+Added Pin To Net: NetName=solenoid_VSS Pin=C?-1
+Added Pin To Net: NetName=solenoid_VSS Pin=C?-1
+Added Pin To Net: NetName=solenoid_VSS Pin=C?-1
+Added Pin To Net: NetName=solenoid_VSS Pin=C?-1
+Added Pin To Net: NetName=solenoid_VSS Pin=C?-2
+Added Pin To Net: NetName=solenoid_VSS Pin=C?-2
+Added Pin To Net: NetName=solenoid_VSS Pin=C?-2
+Added Pin To Net: NetName=solenoid_VSS Pin=C?-2
+Added Pin To Net: NetName=solenoid_VSS Pin=C?-2
+Added Pin To Net: NetName=solenoid_VSS Pin=C?-2
+Added Pin To Net: NetName=solenoid_VSS Pin=C?-2
+Added Pin To Net: NetName=solenoid_VSS Pin=C?-2
+Added Pin To Net: NetName=solenoid_VSS Pin=C?-2
+Added Pin To Net: NetName=solenoid_VSS Pin=C?-2
+Added Pin To Net: NetName=solenoid_VSS Pin=D?-1
+Added Pin To Net: NetName=solenoid_VSS Pin=D?-1
+Added Pin To Net: NetName=solenoid_VSS Pin=E?-2
+Added Pin To Net: NetName=solenoid_VSS Pin=E?-2
+Added Pin To Net: NetName=solenoid_VSS Pin=E?-2
+Added Pin To Net: NetName=solenoid_VSS Pin=J?-3
+Added Pin To Net: NetName=solenoid_VSS Pin=J?-4
+Added Pin To Net: NetName=solenoid_VSS Pin=J?-4
+Added Pin To Net: NetName=solenoid_VSS Pin=J?-4
+Added Pin To Net: NetName=solenoid_VSS Pin=L?-2
+Added Pin To Net: NetName=solenoid_VSS Pin=P?-19
+Added Pin To Net: NetName=solenoid_VSS Pin=P?-23
+Added Pin To Net: NetName=solenoid_VSS Pin=P?-24
+Added Pin To Net: NetName=solenoid_VSS Pin=Q?-E
+Added Pin To Net: NetName=solenoid_VSS Pin=Q?-S
+Added Pin To Net: NetName=solenoid_VSS Pin=R?-1
+Added Pin To Net: NetName=solenoid_VSS Pin=R?-1
+Added Pin To Net: NetName=solenoid_VSS Pin=R?-1
+Added Pin To Net: NetName=solenoid_VSS Pin=R?-1
+Added Pin To Net: NetName=solenoid_VSS Pin=R?-1
+Added Pin To Net: NetName=solenoid_VSS Pin=R?-1
+Added Pin To Net: NetName=solenoid_VSS Pin=R?-1
+Added Pin To Net: NetName=solenoid_VSS Pin=R?-1
+Added Pin To Net: NetName=solenoid_VSS Pin=R?-1
+Added Pin To Net: NetName=solenoid_VSS Pin=R?-2
+Added Pin To Net: NetName=solenoid_VSS Pin=S?-2
+Added Pin To Net: NetName=solenoid_VSS Pin=U?-2
+Added Pin To Net: NetName=solenoid_VSS Pin=U?-3
+Added Pin To Net: NetName=solenoid_VSS Pin=U?-5
+Added Pin To Net: NetName=solenoid_VSS Pin=U?-6
+Added Pin To Net: NetName=solenoid_VSS Pin=U?-8
+Added Pin To Net: NetName=solenoid_VSS Pin=U?-23
+Added Pin To Net: NetName=solenoid_VSS Pin=U?-35
+Added Pin To Net: NetName=solenoid_VSS Pin=U?-47
+Added Pin To Net: NetName=solenoid_VSS Pin=V?-1
+Added Net: Name=solenoid_VSS
+Added Pin To Net: NetName=SWCLK Pin=J?-3
+Added Pin To Net: NetName=SWCLK Pin=R?-2
+Added Pin To Net: NetName=SWCLK Pin=U?-37
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=J?-2
+Added Pin To Net: NetName=SWDIO Pin=R?-1
+Added Pin To Net: NetName=SWDIO Pin=U?-34
+Added Net: Name=SWDIO
+Added Pin To Net: NetName=TXS_Control Pin=*-10
+Added Pin To Net: NetName=TXS_Control Pin=R?-2
+Added Pin To Net: NetName=TXS_Control Pin=U?-28
+Added Net: Name=TXS_Control
+Added Pin To Net: NetName=USART3_RX Pin=J?-3
+Added Pin To Net: NetName=USART3_RX Pin=U?-22
+Added Net: Name=USART3_RX
+Added Pin To Net: NetName=USART3_TX Pin=J?-2
+Added Pin To Net: NetName=USART3_TX Pin=U?-21
+Added Net: Name=USART3_TX
+Added Pin To Net: NetName=VCC_3V3_CAN Pin=C?-2
+Added Pin To Net: NetName=VCC_3V3_CAN Pin=R?-2
+Added Pin To Net: NetName=VCC_3V3_CAN Pin=U?-5
+Added Net: Name=VCC_3V3_CAN
+Added Pin To Net: NetName=VCC_3V3 Pin=*-2
+Added Pin To Net: NetName=VCC_3V3 Pin=C?-1
+Added Pin To Net: NetName=VCC_3V3 Pin=C?-1
+Added Pin To Net: NetName=VCC_3V3 Pin=C?-2
+Added Pin To Net: NetName=VCC_3V3 Pin=C?-2
+Added Pin To Net: NetName=VCC_3V3 Pin=C?-2
+Added Pin To Net: NetName=VCC_3V3 Pin=C?-2
+Added Pin To Net: NetName=VCC_3V3 Pin=C?-2
+Added Pin To Net: NetName=VCC_3V3 Pin=D?-2
+Added Pin To Net: NetName=VCC_3V3 Pin=E?-1
+Added Pin To Net: NetName=VCC_3V3 Pin=J?-1
+Added Pin To Net: NetName=VCC_3V3 Pin=J?-1
+Added Pin To Net: NetName=VCC_3V3 Pin=R1-2
+Added Pin To Net: NetName=VCC_3V3 Pin=R?-1
+Added Pin To Net: NetName=VCC_3V3 Pin=R?-2
+Added Pin To Net: NetName=VCC_3V3 Pin=U?-9
+Added Pin To Net: NetName=VCC_3V3 Pin=U?-24
+Added Pin To Net: NetName=VCC_3V3 Pin=U?-36
+Added Pin To Net: NetName=VCC_3V3 Pin=U?-48
+Added Pin To Net: NetName=VCC_3V3 Pin=V?-2
+Added Pin To Net: NetName=VCC_3V3 Pin=V?-2
+Added Net: Name=VCC_3V3
+Added Pin To Net: NetName=VCC_5V_CAN Pin=C?-2
+Added Pin To Net: NetName=VCC_5V_CAN Pin=C?-2
+Added Pin To Net: NetName=VCC_5V_CAN Pin=R?-2
+Added Pin To Net: NetName=VCC_5V_CAN Pin=U?-3
+Added Net: Name=VCC_5V_CAN
+Added Pin To Net: NetName=VCC_5V Pin=*-19
+Added Pin To Net: NetName=VCC_5V Pin=C?-1
+Added Pin To Net: NetName=VCC_5V Pin=C?-1
+Added Pin To Net: NetName=VCC_5V Pin=C?-1
+Added Pin To Net: NetName=VCC_5V Pin=C?-1
+Added Pin To Net: NetName=VCC_5V Pin=D?-2
+Added Pin To Net: NetName=VCC_5V Pin=E?-1
+Added Pin To Net: NetName=VCC_5V Pin=E?-1
+Added Pin To Net: NetName=VCC_5V Pin=J?-1
+Added Pin To Net: NetName=VCC_5V Pin=J?-2
+Added Pin To Net: NetName=VCC_5V Pin=J?-4
+Added Pin To Net: NetName=VCC_5V Pin=JK?-1
+Added Pin To Net: NetName=VCC_5V Pin=L?-2
+Added Pin To Net: NetName=VCC_5V Pin=LED?-2
+Added Pin To Net: NetName=VCC_5V Pin=P?-1
+Added Pin To Net: NetName=VCC_5V Pin=P?-1
+Added Pin To Net: NetName=VCC_5V Pin=P?-4
+Added Pin To Net: NetName=VCC_5V Pin=P?-7
+Added Pin To Net: NetName=VCC_5V Pin=P?-10
+Added Pin To Net: NetName=VCC_5V Pin=R?-1
+Added Pin To Net: NetName=VCC_5V Pin=R?-2
+Added Pin To Net: NetName=VCC_5V Pin=V?-3
+Added Net: Name=VCC_5V
+Added Pin To Net: NetName=VCC_24V Pin=C?-1
+Added Pin To Net: NetName=VCC_24V Pin=P?-13
+Added Pin To Net: NetName=VCC_24V Pin=P?-13
+Added Pin To Net: NetName=VCC_24V Pin=P?-21
+Added Pin To Net: NetName=VCC_24V Pin=P?-22
+Added Pin To Net: NetName=VCC_24V Pin=U?-7
+Added Net: Name=VCC_24V
+Added Pin To Net: NetName=watchdog_3V3 Pin=*-1
+Added Pin To Net: NetName=watchdog_3V3 Pin=U?-25
+Added Net: Name=watchdog_3V3
+Added Pin To Net: NetName=watchdog_5V Pin=*-20
+Added Pin To Net: NetName=watchdog_5V Pin=J?-1
+Added Net: Name=watchdog_5V

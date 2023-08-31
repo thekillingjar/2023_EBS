@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND_A Pin=L2-1
+Removed Pin From Net: NetName=solenoid1_VSS Pin=L2-2
+Removed Member From Class: ClassName=HRT_23D_EBS1.0 Member=L2
+Added Component: Designator=R42(0805R)
+Added Component: Designator=R43(0805R)
+Added Pin To Net: NetName=solenoid1_VSS Pin=R42-1
+Added Pin To Net: NetName=GND_A Pin=R42-2
+Added Pin To Net: NetName=solenoid1_VSS Pin=R43-1
+Added Pin To Net: NetName=GND_A Pin=R43-2
+Added Member To Class: ClassName=HRT_23D_EBS1.0 Member=Component R42 0R
+Added Member To Class: ClassName=HRT_23D_EBS1.0 Member=Component R43 0R

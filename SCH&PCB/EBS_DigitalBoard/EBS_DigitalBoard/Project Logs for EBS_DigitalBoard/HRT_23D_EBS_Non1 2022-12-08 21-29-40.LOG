@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=SDC_AS Pin=U2-11
+Removed Pin From Net: NetName=AND_3A | OR_4A Pin=U2-12
+Removed Pin From Net: NetName=A\S\_\m\o\d\e\ Pin=U2-13
+Added Pin To Net: NetName=SDC_AS Pin=U2-8
+Added Pin To Net: NetName=AND_3A | OR_4A Pin=U2-9
+Added Pin To Net: NetName=A\S\_\m\o\d\e\ Pin=U2-10

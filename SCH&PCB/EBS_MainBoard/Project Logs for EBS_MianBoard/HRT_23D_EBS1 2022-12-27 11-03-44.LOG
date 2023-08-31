@@ -1,0 +1,36 @@
+Added Component: Designator=D6(SMA)
+Add component (AddParameter): Name = "BOM名称"; Value = "肖特基二极管"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "属性"; Value = "40V/1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=J10(KF2EDGK5.08W-2P)
+Added Component: Designator=LED4(LED 0805R)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=Q4(SOT23)
+Added Component: Designator=R39(0805R)
+Added Component: Designator=R40(0805R)
+Added Component: Designator=R41(0805R)
+Added Pin To Net: NetName=solenoid_VSS Pin=D6-1
+Added Pin To Net: NetName=solenoid_VSS Pin=J10-1
+Added Pin To Net: NetName=solenoid_VSS Pin=Q4-S
+Added Pin To Net: NetName=brake_control1_5V Pin=R10-2
+Added Pin To Net: NetName=brake_control1_5V Pin=R13-2
+Added Pin To Net: NetName=actuator_24V Pin=R39-1
+Added Pin To Net: NetName=brake_control2_5V Pin=R40-2
+Added Pin To Net: NetName=solenoid_VSS Pin=R41-1
+Added Pin To Net: NetName=brake_control2_5V Pin=R41-2
+Change Net Name : Old Net Name=solenoid_VDD New Net Name=solenoid1_VDD
+Change Net Name : Old Net Name=solenoid_VSS New Net Name=solenoid1_VSS
+Added Pin To Net: NetName=NetLED4_2 Pin=LED4-2
+Added Pin To Net: NetName=NetLED4_2 Pin=Q4-D
+Added Net: Name=NetLED4_2
+Added Pin To Net: NetName=NetQ4_G Pin=Q4-G
+Added Pin To Net: NetName=NetQ4_G Pin=R40-1
+Added Net: Name=NetQ4_G
+Added Pin To Net: NetName=solenoid2_VDD Pin=D6-2
+Added Pin To Net: NetName=solenoid2_VDD Pin=J10-2
+Added Pin To Net: NetName=solenoid2_VDD Pin=LED4-1
+Added Pin To Net: NetName=solenoid2_VDD Pin=R39-2
+Added Net: Name=solenoid2_VDD

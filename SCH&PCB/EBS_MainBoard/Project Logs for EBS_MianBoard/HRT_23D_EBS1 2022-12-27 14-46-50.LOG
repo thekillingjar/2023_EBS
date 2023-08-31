@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=EBS_error_3V3 Pin=U1-38
+Added Pin To Net: NetName=EBS_error_3V3 Pin=U1-25

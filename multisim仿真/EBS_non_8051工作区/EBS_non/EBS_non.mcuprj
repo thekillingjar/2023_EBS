@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="ASCII"?>
+<MCUProject Schema="67" Class="CMCUProject" Path="" PathAbs="" ProjectType="1">
+<ProjectFolders/>
+<ProjectFiles/>
+<BuildSettings>
+<MCUProjectBuildSettings Class="CMCUProjectBuildSettings" ToolGroupType="-1" IntermediatePath="&amp;ASC.\" IntermediatePathAbs="&amp;UNID:\HRT\23D_EBS\multisim_uc24eff771f\EBS_non_8051_uc35de54f5c533a\EBS_non\" OutputPath="&amp;ASC.\" OutputPathAbs="&amp;UNID:\HRT\23D_EBS\multisim_uc24eff771f\EBS_non_8051_uc35de54f5c533a\EBS_non\" TargetFileType="6" SimPath="&amp;ASC..\..\Objects\" SimPathAbs="&amp;UNID:\HRT\23D_EBS\multisim_uc24eff771f\Objects\" SimFile="&amp;ASCEBS_non_C51.hex" CodeLoadType="0"/>
+</BuildSettings>
+</MCUProject>

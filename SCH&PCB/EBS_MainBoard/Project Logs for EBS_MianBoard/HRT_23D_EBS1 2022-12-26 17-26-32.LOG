@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=LF_oil Pin=P1-2
+Removed Pin From Net: NetName=GND_A Pin=P1-3
+Removed Pin From Net: NetName=VCC_5V Pin=P1-4
+Removed Pin From Net: NetName=GND_A Pin=P1-6
+Removed Pin From Net: NetName=VCC_5V Pin=P1-7
+Removed Pin From Net: NetName=GND_A Pin=P1-9
+Removed Pin From Net: NetName=VCC_5V Pin=P1-10
+Removed Pin From Net: NetName=GND_A Pin=P1-12
+Removed Pin From Net: NetName=gas Pin=P1-14
+Removed Pin From Net: NetName=EBS_error_5V Pin=P1-18
+Added Pin To Net: NetName=EBS_error_5V Pin=P1-2
+Added Pin To Net: NetName=VCC_24V Pin=P1-14
+Added Pin To Net: NetName=b\r\a\k\e\_\3\V\3\ Pin=U5-5

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=watchdog Pin=C35-2
+Removed Pin From Net: NetName=watchdog Pin=U11-6
+Change Net Name : Old Net Name=AND_3A New Net Name=AND_3A | OR_4A
+Added Pin To Net: NetName=NetC35_2 Pin=C35-2
+Added Pin To Net: NetName=NetC35_2 Pin=U11-6
+Added Net: Name=NetC35_2

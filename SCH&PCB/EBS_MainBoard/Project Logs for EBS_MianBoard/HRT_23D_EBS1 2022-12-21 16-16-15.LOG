@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=VCC_24V Pin=P1-21
+Removed Pin From Net: NetName=VCC_24V Pin=P1-22
+Removed Pin From Net: NetName=solenoid_VSS Pin=P1-23
+Removed Pin From Net: NetName=solenoid_VSS Pin=P1-24
+Change Component Footprint: Designator=J7 Old Footprint=Fe-HDR1X4/2.54-S New Footprint=Pin HDR1X4/2.54mm-S
+Added Pin To Net: NetName=solenoid_VSS Pin=P1-21
+Added Pin To Net: NetName=solenoid_VSS Pin=P1-22
+Added Pin To Net: NetName=VCC_24V Pin=P1-23
+Added Pin To Net: NetName=VCC_24V Pin=P1-24
+Added Pin To Net: NetName=b\r\a\k\e\_\3\V\3\ Pin=U5-5

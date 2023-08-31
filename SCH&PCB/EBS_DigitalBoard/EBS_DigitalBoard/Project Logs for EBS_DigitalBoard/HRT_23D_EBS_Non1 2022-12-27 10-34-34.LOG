@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=b\r\a\k\e\2\ Pin=U3-1
+Removed Pin From Net: NetName=AND_3A | OR_4A Pin=U3-2
+Added Pin To Net: NetName=AND_3A | OR_4A Pin=U3-1
+Added Pin To Net: NetName=b\r\a\k\e\2\ Pin=U3-2

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=CAN_TX_MCU Pin=U1-32
+Removed Pin From Net: NetName=CAN_RX_MCU Pin=U1-33
+Added Pin To Net: NetName=CAN_RX_MCU Pin=U1-32
+Added Pin To Net: NetName=CAN_TX_MCU Pin=U1-33
+Added Pin To Net: NetName=SDC_AS_3V3 Pin=U5-5

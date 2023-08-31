@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=GND Pin=P1-16
+Removed Pin From Net: NetName=GND Pin=U4-9
+Added Component: Designator=C?(C 0805_M)
+Added Component: Designator=R?(0805R)
+Added Component: Designator=R?(0805R)
+Added Pin To Net: NetName=GND_A Pin=C?-2
+Added Pin To Net: NetName=GND_A Pin=R?-1
+Change Net Name : Old Net Name=gas New Net Name=gas1
+Change Net Name : Old Net Name=GAS_ADC New Net Name=GAS1_ADC
+Added Pin To Net: NetName=GAS2_ADC Pin=C?-1
+Added Pin To Net: NetName=GAS2_ADC Pin=R?-1
+Added Pin To Net: NetName=GAS2_ADC Pin=R?-2
+Added Pin To Net: NetName=GAS2_ADC Pin=U1-10
+Added Net: Name=GAS2_ADC
+Added Pin To Net: NetName=gas2 Pin=P1-16
+Added Pin To Net: NetName=gas2 Pin=R?-2
+Added Net: Name=gas2
+Added Member To Class: ClassName=HRT_23D_EBS1.1 Member=Component C? 0.1uF
+Added Member To Class: ClassName=HRT_23D_EBS1.1 Member=Component R? 14K
+Added Member To Class: ClassName=HRT_23D_EBS1.1 Member=Component R? 2K

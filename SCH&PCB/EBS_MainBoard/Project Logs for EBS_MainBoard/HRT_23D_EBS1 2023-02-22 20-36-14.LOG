@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=VCC_5V Pin=E2-1
+Removed Pin From Net: NetName=solenoid1_VSS Pin=E2-2
+Removed Pin From Net: NetName=VCC_3V3 Pin=E3-1
+Removed Pin From Net: NetName=solenoid1_VSS Pin=E3-2
+Removed Pin From Net: NetName=NetC25_1 Pin=E4-1
+Removed Pin From Net: NetName=solenoid1_VSS Pin=E4-2
+Change Component Comment : Designator=E4 Old Comment= New Comment=10uF/6.3V
+Change Component Comment : Designator=E2 Old Comment=10uF/25V New Comment=10uF/6.3V
+Change Component Comment : Designator=E3 Old Comment=10uF/25V New Comment=10uF/6.3V
+Added Pin To Net: NetName=solenoid1_VSS Pin=E2-1
+Added Pin To Net: NetName=VCC_5V Pin=E2-2
+Added Pin To Net: NetName=solenoid1_VSS Pin=E3-1
+Added Pin To Net: NetName=VCC_3V3 Pin=E3-2
+Added Pin To Net: NetName=solenoid1_VSS Pin=E4-1
+Added Pin To Net: NetName=NetC25_1 Pin=E4-2

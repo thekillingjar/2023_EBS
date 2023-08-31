@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=brake_control2_5V Pin=U5-13
+Removed Pin From Net: NetName=b\r\a\k\e\2\_\5\V\ Pin=U5-14
+Removed Pin From Net: NetName=SDC_AS_5V Pin=U5-15
+Added Pin To Net: NetName=SDC_AS_5V Pin=U5-13
+Added Pin To Net: NetName=brake_control2_5V Pin=U5-14
+Added Pin To Net: NetName=b\r\a\k\e\2\_\5\V\ Pin=U5-15
+Change Net Name : Old Net Name=b\r\a\k\e\2\_\3\V\3\ New Net Name=brake_control2_3V3
+Change Net Name : Old Net Name=brake_control2_3V3 New Net Name=SDC_AS_3V3
+Change Net Name : Old Net Name=SDC_AS_3V3 New Net Name=b\r\a\k\e\2\_\3\V\3\

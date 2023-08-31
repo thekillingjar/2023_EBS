@@ -1,0 +1,4 @@
+Added Component: Designator=J9(KF2EDGK5.08W-2P)
+Added Pin To Net: NetName=solenoid_VSS Pin=J9-1
+Added Pin To Net: NetName=solenoid_VDD Pin=J9-2
+Added Pin To Net: NetName=SDC_AS_3V3 Pin=U5-5

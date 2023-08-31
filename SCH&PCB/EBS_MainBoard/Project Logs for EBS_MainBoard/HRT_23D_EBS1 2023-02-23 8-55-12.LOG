@@ -1,0 +1,4 @@
+Added Component: Designator=R44(0805R)
+Added Pin To Net: NetName=solenoid1_VSS Pin=R44-1
+Added Pin To Net: NetName=GND_A Pin=R44-2
+Added Member To Class: ClassName=HRT_23D_EBS1.0 Member=Component R44 0R

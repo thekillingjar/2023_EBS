@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=RF_oil Pin=P1-5
+Added Pin To Net: NetName=gas Pin=P1-5
+Added Pin To Net: NetName=GND_A Pin=P1-6
+Added Pin To Net: NetName=RF_oil Pin=P1-7
+Added Pin To Net: NetName=b\r\a\k\e\_\3\V\3\ Pin=U5-5

@@ -1,0 +1,6 @@
+Change Component Comment : Designator=R37 Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R33 Old Comment=2.7K New Comment=2K2
+Added Member To Class: ClassName=HRT_23D_EBS1.0 Member=Component D6 SS14
+Added Member To Class: ClassName=HRT_23D_EBS1.0 Member=Component R6 0R
+Added Member To Class: ClassName=HRT_23D_EBS1.0 Member=Component R39 10K
+Added Room: Name=HRT_23D_EBS1.0

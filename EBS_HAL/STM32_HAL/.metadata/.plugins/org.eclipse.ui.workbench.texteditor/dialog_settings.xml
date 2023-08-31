@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<item key="selection" value="timeout"/>
+		<list key="findhistory">
+			<item value="timeout"/>
+			<item value="bp"/>
+			<item value="bp_lose"/>
+			<item value="EBS_error_OFF"/>
+			<item value="HAL_UART_MspInit"/>
+			<item value="EBS_Check"/>
+			<item value="HAL_ADC_ConvCpltCallback"/>
+			<item value="HAL_ADC_Start_DMA"/>
+			<item value="ADC_DMAConvCplt"/>
+			<item value="ad"/>
+			<item value="DMA1_Channel1_IRQn"/>
+		</list>
+		<list key="replacehistory">
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="1127"/>
+		<item key="DIALOG_Y_ORIGIN" value="431"/>
+		<item key="DIALOG_WIDTH" value="463"/>
+		<item key="DIALOG_HEIGHT" value="511"/>
+		<item key="DIALOG_FONT_NAME" value="1|Microsoft YaHei UI|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|5|0|Microsoft YaHei UI"/>
+	</section>
+</section>

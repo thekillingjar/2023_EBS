@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=CAN_EXT_H Pin=P1-16
+Removed Pin From Net: NetName=CAN_EXT_L Pin=P1-17
+Added Pin To Net: NetName=CAN_EXT_H Pin=P1-3
+Added Pin To Net: NetName=CAN_EXT_L Pin=P1-4
+Added Pin To Net: NetName=SDC_AS_3V3 Pin=U5-5

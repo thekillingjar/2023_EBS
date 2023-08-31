@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=solenoid1_VSS Pin=LED6-2
+Removed Member From Class: ClassName=HRT_23D_EBS1.0 Member=LED6
+Removed Member From Class: ClassName=HRT_23D_EBS1.0 Member=R46

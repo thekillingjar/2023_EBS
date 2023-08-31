@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=EBS_error_5V Pin=P1-2
+Removed Pin From Net: NetName=GND_A Pin=P1-15
+Removed Pin From Net: NetName=solenoid1_VSS Pin=U4-9
+Added Pin To Net: NetName=solenoid1_VSS Pin=P1-2
+Added Pin To Net: NetName=EBS_error_5V Pin=P1-15

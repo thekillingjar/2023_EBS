@@ -1,0 +1,2 @@
+Change Component Library : Designator=RQ1 Old Library=HRT_19D_EBS1.1.SCHLIB New Library=mainlib.SchLib
+Added Pin To Net: NetName=SDC_AS_3V3 Pin=*1-5

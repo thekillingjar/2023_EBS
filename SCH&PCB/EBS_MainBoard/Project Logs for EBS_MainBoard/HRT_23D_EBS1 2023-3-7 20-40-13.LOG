@@ -1,0 +1,54 @@
+Removed Pin From Net: NetName=solenoid1_VSS Pin=D2-1
+Removed Pin From Net: NetName=solenoid1_VSS Pin=D6-1
+Removed Pin From Net: NetName=solenoid2_VDD Pin=D6-2
+Removed Pin From Net: NetName=solenoid1_VSS Pin=J9-1
+Removed Pin From Net: NetName=solenoid1_VSS Pin=J10-1
+Removed Pin From Net: NetName=solenoid1_VDD Pin=LED1-1
+Removed Pin From Net: NetName=solenoid2_VDD Pin=LED4-1
+Removed Pin From Net: NetName=actuator_24V Pin=R6-1
+Removed Pin From Net: NetName=solenoid1_VDD Pin=R6-2
+Removed Pin From Net: NetName=actuator_24V Pin=R39-1
+Removed Pin From Net: NetName=solenoid2_VDD Pin=R39-2
+Removed Pin From Net: NetName=solenoid1_VSS Pin=U4-9
+Change Component Comment : Designator=R8 Old Comment=10K New Comment=0R
+Change Component Comment : Designator=R23 Old Comment=10K New Comment=1K
+Change Component Comment : Designator=R31 Old Comment=10K New Comment=3K3
+Change Component Comment : Designator=R24 Old Comment=100R New Comment=0R
+Change Component Designator: OldDesignator=PB13 NewDesignator=LED6
+Change Component Designator: OldDesignator=PWR_LED NewDesignator=LED5
+Added Component: Designator=D6(SMA)
+Add component (AddParameter): Name = "BOM名称"; Value = "肖特基二极管"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "属性"; Value = "40V/1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R6(0805R)
+Added Component: Designator=R39(0805R)
+Added Component: Designator=R47(0805R)
+Added Component: Designator=R48(0805R)
+Added Pin To Net: NetName=solenoid2_VDD Pin=D6-2
+Added Pin To Net: NetName=solenoid1_VDD Pin=R6-1
+Added Pin To Net: NetName=actuator_24V Pin=R6-2
+Added Pin To Net: NetName=actuator_24V Pin=R39-1
+Added Pin To Net: NetName=solenoid2_VDD Pin=R47-1
+Added Pin To Net: NetName=actuator_24V Pin=R47-2
+Added Pin To Net: NetName=actuator_24V Pin=R48-1
+Change Net Name : Old Net Name=solenoid1_VSS New Net Name=GND
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_1 Pin=R39-2
+Added Net: Name=NetLED1_1
+Added Pin To Net: NetName=NetLED4_1 Pin=LED4-1
+Added Pin To Net: NetName=NetLED4_1 Pin=R48-2
+Added Net: Name=NetLED4_1
+Added Pin To Net: NetName=solenoid1_VSS Pin=D2-1
+Added Pin To Net: NetName=solenoid1_VSS Pin=J9-1
+Added Pin To Net: NetName=solenoid1_VSS Pin=LED1-2
+Added Pin To Net: NetName=solenoid1_VSS Pin=Q1-D
+Added Net: Name=solenoid1_VSS
+Added Pin To Net: NetName=solenoid2_VSS Pin=D6-1
+Added Pin To Net: NetName=solenoid2_VSS Pin=J10-1
+Added Pin To Net: NetName=solenoid2_VSS Pin=LED4-2
+Added Pin To Net: NetName=solenoid2_VSS Pin=Q4-D
+Added Net: Name=solenoid2_VSS
+Added Member To Class: ClassName=HRT_23D_EBS1.0 Member=Component LED6 黄色
+Added Member To Class: ClassName=HRT_23D_EBS1.0 Member=Component R47 0R
+Added Member To Class: ClassName=HRT_23D_EBS1.0 Member=Component R48 10K

@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=E4-1
+Removed Pin From Net: NetName=NetC25_1 Pin=E4-2
+Change Component Footprint: Designator=E4 Old Footprint=CD A(3216) New Footprint=CM D(6.3*7.7)
+Change Component Footprint: Designator=E1 Old Footprint=CM D(6.3*7.7) New Footprint=CM C(5*5.4)
+Change Component Comment : Designator=C24 Old Comment=10uF New Comment=10nF
+Change Component Comment : Designator=E4 Old Comment=10uF/6.3V New Comment=100uF/35V
+Change Component Comment : Designator=E1 Old Comment=220uF/50V New Comment=100uF/10V
+Change component parameters: Designator = "E4" ("E4"); Footprint = "CD A(3216)"; UniqueID = "\HWJSHAPS" ("\HWJSHAPS")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "贴片电解电容"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC_24V Pin=E4-1
+Added Pin To Net: NetName=GND Pin=E4-2

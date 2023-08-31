@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;1231&apos;" deleteContents="false" description="Delete resource &apos;1231&apos;" element1="/1231" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1692252779584"/>&#x0A;<refactoring comment="Delete resource &apos;STM32_HAL/Core/Inc/config&apos;" deleteContents="false" description="Delete resource &apos;STM32_HAL/Core/Inc/config&apos;" element1="/STM32_HAL/Core/Inc/config" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1692252869058"/>
+</session>

@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=L1 Old Footprint=CD31 New Footprint=SMD 12*12*8mm
+Change Component Comment : Designator=L1 Old Comment=15uH New Comment=10uH
+Change Component Description : Designator=L1 Old Description=贴片功率电感
+Isat>3.35A Itmp > 3.1A New Description=贴片功率电感

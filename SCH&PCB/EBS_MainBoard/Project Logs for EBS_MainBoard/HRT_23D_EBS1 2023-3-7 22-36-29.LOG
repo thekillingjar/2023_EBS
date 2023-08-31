@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=solenoid1_VSS Pin=J9-1
+Removed Pin From Net: NetName=solenoid1_VDD Pin=J9-2
+Removed Pin From Net: NetName=solenoid2_VSS Pin=J10-1
+Removed Pin From Net: NetName=solenoid2_VDD Pin=J10-2
+Change Component Comment : Designator=R37 Old Comment=1K New Comment=100R
+Change Component Comment : Designator=R33 Old Comment=2.7K New Comment=2K2
+Added Pin To Net: NetName=solenoid1_VDD Pin=J9-1
+Added Pin To Net: NetName=solenoid1_VSS Pin=J9-2
+Added Pin To Net: NetName=solenoid2_VDD Pin=J10-1
+Added Pin To Net: NetName=solenoid2_VSS Pin=J10-2

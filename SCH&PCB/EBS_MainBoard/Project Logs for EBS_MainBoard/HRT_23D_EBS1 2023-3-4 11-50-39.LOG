@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=solenoid1_VSS Pin=U4-9
+Added Component: Designator=LED5(LED 0805W)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=LED6(LED 0805Y)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R45(0805R)
+Added Component: Designator=R46(0805R)
+Added Pin To Net: NetName=solenoid1_VSS Pin=LED5-2
+Added Pin To Net: NetName=solenoid1_VSS Pin=LED6-2
+Added Pin To Net: NetName=VCC_3V3 Pin=R45-2
+Added Pin To Net: NetName=MCU_LED Pin=R46-2
+Added Pin To Net: NetName=MCU_LED Pin=U1-26
+Added Net: Name=MCU_LED
+Added Pin To Net: NetName=NetLED5_1 Pin=LED5-1
+Added Pin To Net: NetName=NetLED5_1 Pin=R45-1
+Added Net: Name=NetLED5_1
+Added Pin To Net: NetName=NetLED6_1 Pin=LED6-1
+Added Pin To Net: NetName=NetLED6_1 Pin=R46-1
+Added Net: Name=NetLED6_1
+Added Member To Class: ClassName=HRT_23D_EBS1.0 Member=Component LED5 白色
+Added Member To Class: ClassName=HRT_23D_EBS1.0 Member=Component LED6 黄色
+Added Member To Class: ClassName=HRT_23D_EBS1.0 Member=Component R45 1K
+Added Member To Class: ClassName=HRT_23D_EBS1.0 Member=Component R46 1K

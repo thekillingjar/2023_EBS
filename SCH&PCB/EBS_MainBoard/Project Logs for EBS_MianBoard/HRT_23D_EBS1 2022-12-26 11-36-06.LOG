@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=SDC_AS_5V Pin=J6-1
+Removed Pin From Net: NetName=brake_control_5V Pin=J6-2
+Removed Pin From Net: NetName=watchdog_5V Pin=J7-1
+Removed Pin From Net: NetName=b\r\a\k\e\_\5\V\ Pin=J7-4
+Added Pin To Net: NetName=brake_control_5V Pin=J6-1
+Added Pin To Net: NetName=SDC_AS_5V Pin=J6-2
+Added Pin To Net: NetName=b\r\a\k\e\_\5\V\ Pin=J7-1
+Added Pin To Net: NetName=watchdog_5V Pin=J7-4
+Added Pin To Net: NetName=SDC_AS_3V3 Pin=U5-5

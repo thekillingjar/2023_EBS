@@ -1,0 +1,29 @@
+Altium Designer Pick and Place Locations
+E:\车队-电气组\23D_EBS\SCH&PCB\EBS_DigitalBoard\EBS_DigitalBoard\Project Outputs for EBS_DigitalBoard\Pick Place for HRT_23D_EBS_Non1.0.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       23-02-23
+Time:       20:00
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment      Layer       Footprint           Center-X(mil) Center-Y(mil) Rotation Description 
+R42        3.3K         TopLayer    0805R               3695.000      3895.000      360      贴片电阻        
+D7         红色           TopLayer    LED_0805G           3899.997      3879.997      0        贴片LED       
+C36        1uF          TopLayer    C_0805_M            3679.997      3999.997      360      无极性贴片电容     
+U11        UCC2946D     TopLayer    SOP8                3643.268      3675.000      360      复位监控芯片      
+U10        74HC74D      TopLayer    SOP14               2936.732      3285.000      0        D触发器        
+U9         74HC08N      TopLayer    SOP14               3706.732      3285.000      360      2输入与门       
+U8         74HC32D      TopLayer    SOP14               3315.000      3285.000      0        2输入或门       
+U7         CD4069       TopLayer    SOP14               2936.732      3750.000      0        反相器         
+R43        1M           TopLayer    0805R               3315.000      3720.000      180      贴片电阻        
+J13        "Pin HDR1X4" BottomLayer PIN_HDR1X4/2.54MM-S 4000.000      3460.000      0        ""          
+J12        "Pin HDR1X4" BottomLayer PIN_HDR1X4/2.54MM-S 3340.000      2905.000      90       ""          
+J11        "Pin HDR1X4" BottomLayer PIN_HDR1X4/2.54MM-S 3330.000      4090.000      90       ""          
+C35        1nF          TopLayer    C_0805_M            3930.003      3735.003      180      无极性贴片电容     
+C34        1nF          TopLayer    C_0805_M            3329.997      3604.997      0        无极性贴片电容     
+C33        47pF         TopLayer    C_0805_M            3329.997      3834.997      360      无极性贴片电容     
+C32        0.1uF        TopLayer    C_0805_M            3679.997      4094.997      360      无极性贴片电容     

@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=J5 Old Footprint=Pin HDR1X4/2.54mm-S New Footprint=Fe-HDR1X4/2.54-S
+Change Component Footprint: Designator=J6 Old Footprint=Pin HDR1X4/2.54mm-S New Footprint=Fe-HDR1X4/2.54-S
+Change Component Footprint: Designator=J7 Old Footprint=Pin HDR1X4/2.54mm-S New Footprint=Fe-HDR1X4/2.54-S
+Added Pin To Net: NetName=SDC_AS_3V3 Pin=U5-5

@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=solenoid1_VSS Pin=U4-9
+Added Component: Designator=D7(SMA)
+Add component (AddParameter): Name = "BOM名称"; Value = "肖特基二极管"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "属性"; Value = "40V/1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=solenoid1_VSS Pin=D7-1
+Added Pin To Net: NetName=VCC_24V Pin=D7-2
+Added Member To Class: ClassName=HRT_23D_EBS1.0 Member=Component D7 SS14
