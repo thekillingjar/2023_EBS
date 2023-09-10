@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=U4-9
+Change Component Designator: OldDesignator=5VPWR NewDesignator=LED7
+Added Component: Designator=J?(Fe-HDR1X4/2.54-S)
+Added Component: Designator=J?(Fe-HDR1X4/2.54-S)
+Added Member To Class: ClassName=HRT_23D_EBS1.1 Member=Component J? Pin HDR1X4
+Added Member To Class: ClassName=HRT_23D_EBS1.1 Member=Component J? Pin HDR1X4
+Added Room: Name=HRT_23D_EBS1.1

@@ -1,0 +1,223 @@
+Removed Pin From Net: NetName=actuator_IN Pin=C2-1
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Pin From Net: NetName=GND Pin=D1-1
+Removed Pin From Net: NetName=brake_control1_5V Pin=D2-2
+Removed Pin From Net: NetName=brake_control2_5V Pin=D3-2
+Removed Pin From Net: NetName=GND Pin=D4-1
+Removed Pin From Net: NetName=GND Pin=D5-1
+Removed Pin From Net: NetName=actuator_IN Pin=E1-1
+Removed Pin From Net: NetName=GND Pin=E1-2
+Removed Pin From Net: NetName=VCC_24V Pin=E2-1
+Removed Pin From Net: NetName=GND Pin=E2-2
+Removed Pin From Net: NetName=GND Pin=J1-2
+Removed Pin From Net: NetName=shutdown_circuit_5V Pin=J2-3
+Removed Pin From Net: NetName=VCC_5V Pin=J2-4
+Removed Pin From Net: NetName=GND Pin=J3-2
+Removed Pin From Net: NetName=VCC_5V Pin=J4-1
+Removed Pin From Net: NetName=shutdown_circuit_5V Pin=J4-2
+Removed Pin From Net: NetName=brake_control1_5V Pin=J4-3
+Removed Pin From Net: NetName=brake_control2_5V Pin=J4-4
+Removed Pin From Net: NetName=actuator_IN Pin=J5-1
+Removed Pin From Net: NetName=actuator_IN Pin=J5-2
+Removed Pin From Net: NetName=GND Pin=J5-3
+Removed Pin From Net: NetName=GND Pin=J5-4
+Removed Pin From Net: NetName=VCC_24V Pin=L1-2
+Removed Pin From Net: NetName=VCC_24V Pin=LED1-1
+Removed Pin From Net: NetName=VCC_24V Pin=LED3-1
+Removed Pin From Net: NetName=GND Pin=Q1-S
+Removed Pin From Net: NetName=GND Pin=Q2-S
+Removed Pin From Net: NetName=VCC_24V Pin=R1-2
+Removed Pin From Net: NetName=VCC_24V Pin=R2-2
+Removed Pin From Net: NetName=brake_control1_5V Pin=R3-2
+Removed Pin From Net: NetName=GND Pin=R4-2
+Removed Pin From Net: NetName=VCC_24V Pin=R5-2
+Removed Pin From Net: NetName=GND Pin=R6-2
+Removed Pin From Net: NetName=shutdown_circuit_5V Pin=R7-1
+Removed Pin From Net: NetName=GND Pin=R7-2
+Removed Pin From Net: NetName=brake_control2_5V Pin=R8-2
+Removed Pin From Net: NetName=GND Pin=R9-2
+Removed Pin From Net: NetName=VCC_24V Pin=R11-2
+Removed Pin From Net: NetName=GND Pin=R12-1
+Removed Pin From Net: NetName=GND Pin=U1-6
+Removed Pin From Net: NetName=actuator_IN Pin=U1-7
+Added Component: Designator=C?(C 0805_M)
+Added Component: Designator=C?(C 0805_M)
+Added Component: Designator=D?(SMA)
+Add component (AddParameter): Name = "BOM名称"; Value = "肖特基二极管"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "属性"; Value = "40V/1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=D?(SMA)
+Add component (AddParameter): Name = "BOM名称"; Value = "肖特基二极管"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "属性"; Value = "40V/3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=D?(SMA)
+Add component (AddParameter): Name = "BOM名称"; Value = "肖特基二极管"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "属性"; Value = "40V/1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=D?(SMA)
+Add component (AddParameter): Name = "BOM名称"; Value = "肖特基二极管"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "属性"; Value = "40V/1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=D?(SMA)
+Add component (AddParameter): Name = "BOM名称"; Value = "肖特基二极管"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "属性"; Value = "40V/1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=E?(CM D(6.3*7.7))
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电解电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=E?(CM C(5*5.4))
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电解电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=J?(Pin HDR1X4/2.54mm-S)
+Added Component: Designator=J?(Pin HDR1X4/2.54mm-S)
+Added Component: Designator=J?(KF2EDGK5.08W-2P)
+Added Component: Designator=J?(KF2EDGK5.08W-2P)
+Added Component: Designator=J?(SOP4)
+Add component (AddParameter): Name = "BOM名称"; Value = "光耦"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=L?(SMD,6.0*6.0)
+Add component (AddParameter): Name = "BOM名称"; Value = "功率电感"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=LED?(LED 0805B)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=LED?(LED 0805B)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=LED?(LED 0805W)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=Q?(SOT23)
+Added Component: Designator=Q?(SOT23)
+Added Component: Designator=R?(0805R)
+Added Component: Designator=R?(0805R)
+Added Component: Designator=R?(0805R)
+Added Component: Designator=R?(0805R)
+Added Component: Designator=R?(0805R)
+Added Component: Designator=R?(0805R)
+Added Component: Designator=R?(0805R)
+Added Component: Designator=R?(0805R)
+Added Component: Designator=R?(0805R)
+Added Component: Designator=R?(0805R)
+Added Component: Designator=R?(0805R)
+Added Component: Designator=U?(SOP8-Pad)
+Added Pin To Net: NetName=actuator_IN Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=D?-1
+Added Pin To Net: NetName=GND Pin=D?-1
+Added Pin To Net: NetName=GND Pin=D?-1
+Added Pin To Net: NetName=brake_control1_5V Pin=D?-2
+Added Pin To Net: NetName=brake_control2_5V Pin=D?-2
+Added Pin To Net: NetName=actuator_IN Pin=E?-1
+Added Pin To Net: NetName=VCC_24V Pin=E?-1
+Added Pin To Net: NetName=GND Pin=E?-2
+Added Pin To Net: NetName=GND Pin=E?-2
+Added Pin To Net: NetName=actuator_IN Pin=J?-1
+Added Pin To Net: NetName=VCC_5V Pin=J?-1
+Added Pin To Net: NetName=actuator_IN Pin=J?-2
+Added Pin To Net: NetName=GND Pin=J?-2
+Added Pin To Net: NetName=GND Pin=J?-2
+Added Pin To Net: NetName=shutdown_circuit_5V Pin=J?-2
+Added Pin To Net: NetName=brake_control1_5V Pin=J?-3
+Added Pin To Net: NetName=GND Pin=J?-3
+Added Pin To Net: NetName=shutdown_circuit_5V Pin=J?-3
+Added Pin To Net: NetName=brake_control2_5V Pin=J?-4
+Added Pin To Net: NetName=GND Pin=J?-4
+Added Pin To Net: NetName=VCC_5V Pin=J?-4
+Added Pin To Net: NetName=VCC_24V Pin=L?-2
+Added Pin To Net: NetName=VCC_24V Pin=LED?-1
+Added Pin To Net: NetName=VCC_24V Pin=LED?-1
+Added Pin To Net: NetName=GND Pin=Q?-S
+Added Pin To Net: NetName=GND Pin=Q?-S
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=shutdown_circuit_5V Pin=R?-1
+Added Pin To Net: NetName=brake_control1_5V Pin=R?-2
+Added Pin To Net: NetName=brake_control2_5V Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=VCC_24V Pin=R?-2
+Added Pin To Net: NetName=VCC_24V Pin=R?-2
+Added Pin To Net: NetName=VCC_24V Pin=R?-2
+Added Pin To Net: NetName=VCC_24V Pin=R?-2
+Added Pin To Net: NetName=GND Pin=U?-6
+Added Pin To Net: NetName=actuator_IN Pin=U?-7
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=U?-1
+Added Net: Name=NetC?_1
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=D?-2
+Added Pin To Net: NetName=NetC?_2 Pin=L?-1
+Added Pin To Net: NetName=NetC?_2 Pin=U?-8
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=NetD?_1 Pin=D?-1
+Added Pin To Net: NetName=NetD?_1 Pin=Q?-G
+Added Pin To Net: NetName=NetD?_1 Pin=R?-1
+Added Pin To Net: NetName=NetD?_1 Pin=R?-1
+Added Net: Name=NetD?_1
+Added Pin To Net: NetName=NetD?_2 Pin=D?-2
+Added Pin To Net: NetName=NetD?_2 Pin=J?-1
+Added Pin To Net: NetName=NetD?_2 Pin=R?-1
+Added Net: Name=NetD?_2
+Added Pin To Net: NetName=NetJ?_1 Pin=J?-1
+Added Pin To Net: NetName=NetJ?_1 Pin=LED?-2
+Added Net: Name=NetJ?_1
+Added Pin To Net: NetName=NetJ?_2 Pin=J?-2
+Added Pin To Net: NetName=NetJ?_2 Pin=R?-1
+Added Net: Name=NetJ?_2
+Added Pin To Net: NetName=NetLED?_1 Pin=LED?-1
+Added Pin To Net: NetName=NetLED?_1 Pin=R?-1
+Added Net: Name=NetLED?_1
+Added Pin To Net: NetName=NetLED?_2 Pin=LED?-2
+Added Pin To Net: NetName=NetLED?_2 Pin=Q?-D
+Added Net: Name=NetLED?_2
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-2
+Added Pin To Net: NetName=NetR?_1 Pin=U?-4
+Added Net: Name=NetR?_1
+Added Member To Class: ClassName=ControlBoard Member=Component C? 10nF
+Added Member To Class: ClassName=ControlBoard Member=Component C? 0.01uF
+Added Member To Class: ClassName=ControlBoard Member=Component D? SS14
+Added Member To Class: ClassName=ControlBoard Member=Component D? B340A
+Added Member To Class: ClassName=ControlBoard Member=Component D? SS14
+Added Member To Class: ClassName=ControlBoard Member=Component D? SS14
+Added Member To Class: ClassName=ControlBoard Member=Component D? SS14
+Added Member To Class: ClassName=ControlBoard Member=Component E? 100uF/35V
+Added Member To Class: ClassName=ControlBoard Member=Component E? 10uF/25V
+Added Member To Class: ClassName=ControlBoard Member=Component J? Pin HDR1X4
+Added Member To Class: ClassName=ControlBoard Member=Component J? Pin HDR1X4
+Added Member To Class: ClassName=ControlBoard Member=Component J? KF2EDGK-2P
+Added Member To Class: ClassName=ControlBoard Member=Component J? KF2EDGK-2P
+Added Member To Class: ClassName=ControlBoard Member=Component J? TLP181
+Added Member To Class: ClassName=ControlBoard Member=Component L? 68uH
+Added Member To Class: ClassName=ControlBoard Member=Component LED? 蓝色
+Added Member To Class: ClassName=ControlBoard Member=Component LED? 蓝色
+Added Member To Class: ClassName=ControlBoard Member=Component LED? 白色
+Added Member To Class: ClassName=ControlBoard Member=Component Q? AO3400
+Added Member To Class: ClassName=ControlBoard Member=Component Q? AO3400
+Added Member To Class: ClassName=ControlBoard Member=Component R? 10K
+Added Member To Class: ClassName=ControlBoard Member=Component R? 0R
+Added Member To Class: ClassName=ControlBoard Member=Component R? 30R
+Added Member To Class: ClassName=ControlBoard Member=Component R? 30R
+Added Member To Class: ClassName=ControlBoard Member=Component R? 1K
+Added Member To Class: ClassName=ControlBoard Member=Component R? 2K2
+Added Member To Class: ClassName=ControlBoard Member=Component R? 536R
+Added Member To Class: ClassName=ControlBoard Member=Component R? 100R
+Added Member To Class: ClassName=ControlBoard Member=Component R? 10K
+Added Member To Class: ClassName=ControlBoard Member=Component R? 0R
+Added Member To Class: ClassName=ControlBoard Member=Component R? 10K
+Added Member To Class: ClassName=ControlBoard Member=Component U? TPS5430
+Added Room: Name=ControlBoard

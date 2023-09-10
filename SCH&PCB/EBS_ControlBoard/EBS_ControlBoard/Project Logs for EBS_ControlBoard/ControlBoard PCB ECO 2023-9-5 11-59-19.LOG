@@ -1,0 +1,49 @@
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=D? NewDesignator=D2
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Change Component Designator: OldDesignator=J? NewDesignator=J3
+Change Component Designator: OldDesignator=LED? NewDesignator=LED1
+Change Component Designator: OldDesignator=LED? NewDesignator=LED2
+Change Component Designator: OldDesignator=Q? NewDesignator=Q1
+Change Component Designator: OldDesignator=Q? NewDesignator=Q2
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Change Component Designator: OldDesignator=R? NewDesignator=R11
+Change Net Name : Old Net Name=NetJ?_1 New Net Name=NetJ3_1
+Change Net Name : Old Net Name=NetJ?_2 New Net Name=NetJ3_2
+Change Net Name : Old Net Name=NetLED?_1 New Net Name=NetLED1_1
+Change Net Name : Old Net Name=NetQ?_G New Net Name=NetQ1_G
+Added Pin To Net: NetName=NetLED2_1 Pin=LED2-1
+Added Pin To Net: NetName=NetLED2_1 Pin=R6-2
+Added Net: Name=NetLED2_1
+Added Pin To Net: NetName=NetQ2_G Pin=Q2-G
+Added Pin To Net: NetName=NetQ2_G Pin=R10-1
+Added Net: Name=NetQ2_G
+Added Member To Class: ClassName=ControlBoard Member=Component D1 SS14
+Added Member To Class: ClassName=ControlBoard Member=Component D2 SS14
+Added Member To Class: ClassName=ControlBoard Member=Component J1 KF2EDGK-2P
+Added Member To Class: ClassName=ControlBoard Member=Component J2 KF2EDGK-2P
+Added Member To Class: ClassName=ControlBoard Member=Component J3 TLP181
+Added Member To Class: ClassName=ControlBoard Member=Component LED1 À¶É«
+Added Member To Class: ClassName=ControlBoard Member=Component LED2 À¶É«
+Added Member To Class: ClassName=ControlBoard Member=Component Q2 N-MOS
+Added Member To Class: ClassName=ControlBoard Member=Component R1 0R
+Added Member To Class: ClassName=ControlBoard Member=Component R2 10K
+Added Member To Class: ClassName=ControlBoard Member=Component R3 100R
+Added Member To Class: ClassName=ControlBoard Member=Component R4 100R
+Added Member To Class: ClassName=ControlBoard Member=Component R5 0R
+Added Member To Class: ClassName=ControlBoard Member=Component R6 10K
+Added Member To Class: ClassName=ControlBoard Member=Component R7 2K2
+Added Member To Class: ClassName=ControlBoard Member=Component R8 100R
+Added Member To Class: ClassName=ControlBoard Member=Component R9 1K
+Added Member To Class: ClassName=ControlBoard Member=Component R10 100R
+Added Member To Class: ClassName=ControlBoard Member=Component R11 100R

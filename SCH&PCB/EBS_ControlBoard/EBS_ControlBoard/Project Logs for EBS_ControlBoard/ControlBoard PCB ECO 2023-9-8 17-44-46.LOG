@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=GND Pin=J5-3
+Added Pin To Net: NetName=GND Pin=J5-4
+Added Pin To Net: NetName=actuator_IN Pin=J5-1
+Added Pin To Net: NetName=actuator_IN Pin=J5-2
+Added Net: Name=actuator_IN
+Added Member To Class: ClassName=ControlBoard Member=Component D2 SS14
+Added Member To Class: ClassName=ControlBoard Member=Component Q2 N-MOS
+Added Member To Class: ClassName=ControlBoard Member=Component R4 100R

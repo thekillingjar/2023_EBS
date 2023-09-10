@@ -1,0 +1,32 @@
+Added Member To Class: ClassName=ControlBoard Member=Component C1 0.01uF
+Added Member To Class: ClassName=ControlBoard Member=Component C2 10nF
+Added Member To Class: ClassName=ControlBoard Member=Component D1 SS14
+Added Member To Class: ClassName=ControlBoard Member=Component D2 SS14
+Added Member To Class: ClassName=ControlBoard Member=Component D3 SS14
+Added Member To Class: ClassName=ControlBoard Member=Component D4 SS14
+Added Member To Class: ClassName=ControlBoard Member=Component D5 B340A
+Added Member To Class: ClassName=ControlBoard Member=Component E1 100uF/35V
+Added Member To Class: ClassName=ControlBoard Member=Component E2 10uF/25V
+Added Member To Class: ClassName=ControlBoard Member=Component J1 KF2EDGK-2P
+Added Member To Class: ClassName=ControlBoard Member=Component J2 TLP181
+Added Member To Class: ClassName=ControlBoard Member=Component J3 KF2EDGK-2P
+Added Member To Class: ClassName=ControlBoard Member=Component J4 Pin HDR1X4
+Added Member To Class: ClassName=ControlBoard Member=Component J5 Pin HDR1X4
+Added Member To Class: ClassName=ControlBoard Member=Component L1 68uH
+Added Member To Class: ClassName=ControlBoard Member=Component LED1 À¶É«
+Added Member To Class: ClassName=ControlBoard Member=Component LED2 °×É«
+Added Member To Class: ClassName=ControlBoard Member=Component LED3 À¶É«
+Added Member To Class: ClassName=ControlBoard Member=Component Q1 AO3400
+Added Member To Class: ClassName=ControlBoard Member=Component Q2 AO3400
+Added Member To Class: ClassName=ControlBoard Member=Component R1 0R
+Added Member To Class: ClassName=ControlBoard Member=Component R2 0R
+Added Member To Class: ClassName=ControlBoard Member=Component R3 30R
+Added Member To Class: ClassName=ControlBoard Member=Component R4 10K
+Added Member To Class: ClassName=ControlBoard Member=Component R5 2K2
+Added Member To Class: ClassName=ControlBoard Member=Component R6 100R
+Added Member To Class: ClassName=ControlBoard Member=Component R7 1K
+Added Member To Class: ClassName=ControlBoard Member=Component R8 30R
+Added Member To Class: ClassName=ControlBoard Member=Component R9 10K
+Added Member To Class: ClassName=ControlBoard Member=Component R11 10K
+Added Member To Class: ClassName=ControlBoard Member=Component R12 536R
+Added Member To Class: ClassName=ControlBoard Member=Component U1 TPS5430

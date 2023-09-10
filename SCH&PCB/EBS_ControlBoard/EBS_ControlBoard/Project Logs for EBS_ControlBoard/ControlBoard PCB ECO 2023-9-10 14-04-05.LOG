@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=C3-2
+Removed Pin From Net: NetName=VCC_24V Pin=R10-1
+Removed Member From Class: ClassName=ControlBoard Member=C3
+Removed Member From Class: ClassName=ControlBoard Member=R10
+Added Pin To Net: NetName=VCC_24V Pin=E2-1
+Added Pin To Net: NetName=VCC_24V Pin=L1-2
+Added Pin To Net: NetName=VCC_24V Pin=R11-2

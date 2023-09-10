@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=actuator_IN Pin=J8-1
+Added Pin To Net: NetName=actuator_IN Pin=J8-2
+Added Pin To Net: NetName=GND Pin=J8-3
+Added Pin To Net: NetName=GND Pin=J8-4

@@ -6,8 +6,15 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value="timeout"/>
+		<item key="selection" value="error_state_transition"/>
 		<list key="findhistory">
+			<item value="error_state_cnt"/>
+			<item value="new_state"/>
+			<item value="error_state_transition"/>
+			<item value="air1_insufficient"/>
+			<item value="air2_path_failure"/>
+			<item value="ebs_ready"/>
+			<item value="case"/>
 			<item value="timeout"/>
 			<item value="bp"/>
 			<item value="bp_lose"/>
@@ -16,9 +23,6 @@
 			<item value="EBS_Check"/>
 			<item value="HAL_ADC_ConvCpltCallback"/>
 			<item value="HAL_ADC_Start_DMA"/>
-			<item value="ADC_DMAConvCplt"/>
-			<item value="ad"/>
-			<item value="DMA1_Channel1_IRQn"/>
 		</list>
 		<list key="replacehistory">
 		</list>
@@ -28,6 +32,6 @@
 		<item key="DIALOG_Y_ORIGIN" value="431"/>
 		<item key="DIALOG_WIDTH" value="463"/>
 		<item key="DIALOG_HEIGHT" value="511"/>
-		<item key="DIALOG_FONT_NAME" value="1|Microsoft YaHei UI|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|5|0|Microsoft YaHei UI"/>
+		<item key="DIALOG_FONT_NAME" value="1|Microsoft YaHei UI|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|Microsoft YaHei UI"/>
 	</section>
 </section>

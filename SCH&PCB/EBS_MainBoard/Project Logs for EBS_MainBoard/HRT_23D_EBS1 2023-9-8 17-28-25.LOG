@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=R6-1
+Removed Member From Class: ClassName=HRT_23D_EBS1.1 Member=R6
+Added Pin To Net: NetName=GND Pin=D2-1
+Added Pin To Net: NetName=GND Pin=JK1-1
+Added Pin To Net: NetName=GND Pin=LED1-2
+Added Member To Class: ClassName=HRT_23D_EBS1.1 Member=Component J3 Pin HDR1X4

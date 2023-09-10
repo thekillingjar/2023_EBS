@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : D:\HRT\23D_EBS\SCH&PCB\EBS_MainBoard\HRT_23D_EBS1.1.PcbDoc
-Date     : 2023/4/14
-Time     : 20:29:00
+Date     : 2023/9/10
+Time     : 17:17:36
 
 Processing Rule : Clearance Constraint (Gap=10mil) (InNamedPolygon('VCC_3V3_L01_P009')),(All)
 Rule Violations :0
@@ -9,7 +9,7 @@ Rule Violations :0
 Processing Rule : Clearance Constraint (Gap=10mil) (InNamedPolygon('VCC_3V3_L01_P009')),(All)
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=10mil) (InNamedPolygon('NONET_L02_P012')),(All)
+Processing Rule : Clearance Constraint (Gap=10mil) (InNamedPolygon('GND_A_L02_P012')),(All)
 Rule Violations :0
 
 Processing Rule : Clearance Constraint (Gap=10mil) (InNamedPolygon('VCC_5V_L01_P008')),(All)
@@ -27,7 +27,7 @@ Rule Violations :0
 Processing Rule : Clearance Constraint (Gap=0mil) (InNamedPolygon('VCC_5V_L01_P008')),(All)
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=10mil) (InNamedPolygon('NONET_L02_P012')),(All)
+Processing Rule : Clearance Constraint (Gap=10mil) (InNamedPolygon('GND_A_L02_P012')),(All)
 Rule Violations :0
 
 Processing Rule : Clearance Constraint (Gap=7mil) (All),(All)
@@ -36,7 +36,7 @@ Rule Violations :0
 Processing Rule : Clearance Constraint (Gap=0mil) (InComponent('U1')),(All)
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=10mil) (InNamedPolygon('NONET_L02_P012')),(All)
+Processing Rule : Clearance Constraint (Gap=10mil) (InNamedPolygon('GND_A_L02_P012')),(All)
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)

@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=actuator_24V Pin=C?-1
+Removed Pin From Net: NetName=actuator_24V Pin=C?-1
+Removed Pin From Net: NetName=GND Pin=C?-2
+Removed Pin From Net: NetName=GND Pin=C?-2
+Removed Pin From Net: NetName=actuator_24V Pin=JK?-4
+Removed Pin From Net: NetName=NetLED?_1 Pin=LED?-1
+Removed Pin From Net: NetName=GND Pin=R?-1
+Removed Pin From Net: NetName=NetLED?_1 Pin=R?-1
+Removed Member From Class: ClassName=ControlBoard Member=C?
+Removed Member From Class: ClassName=ControlBoard Member=JK?
+Added Pin To Net: NetName=NetLED?_1 Pin=LED?-1
+Added Pin To Net: NetName=NetLED?_1 Pin=R?-2
+Added Member To Class: ClassName=ControlBoard Member=Component D? SS14
+Added Member To Class: ClassName=ControlBoard Member=Component J? KF2EDGK-2P
+Added Member To Class: ClassName=ControlBoard Member=Component J? TLP181
+Added Member To Class: ClassName=ControlBoard Member=Component LED? À¶É«
+Added Member To Class: ClassName=ControlBoard Member=Component Q? N-MOS
+Added Member To Class: ClassName=ControlBoard Member=Component R? 100R
+Added Member To Class: ClassName=ControlBoard Member=Component R? 2K2
+Added Member To Class: ClassName=ControlBoard Member=Component R? 100R
+Added Member To Class: ClassName=ControlBoard Member=Component R? 1K
+Added Member To Class: ClassName=ControlBoard Member=Component R? 10K
+Added Member To Class: ClassName=ControlBoard Member=Component R? 100R
+Added Member To Class: ClassName=ControlBoard Member=Component R? 10K
+Added Member To Class: ClassName=ControlBoard Member=Component R? 100R
+Added Member To Class: ClassName=ControlBoard Member=Component R? 100R
+Added Member To Class: ClassName=ControlBoard Member=Component R? 0R

@@ -1,0 +1,6 @@
+Added Component: Designator=R?(0805R)
+Added Pin To Net: NetName=actuator_IN Pin=R?-2
+Added Pin To Net: NetName=VCC_24V Pin=R5-2
+Added Pin To Net: NetName=VCC_24V Pin=R?-1
+Added Net: Name=VCC_24V
+Added Member To Class: ClassName=ControlBoard Member=Component R? 2K2

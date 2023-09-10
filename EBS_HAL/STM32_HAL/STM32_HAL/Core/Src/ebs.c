@@ -157,8 +157,14 @@ void EBS_FSM() {
         	error_state_cnt = 0;
         	new_state = 0xFF;
         }
+        else if (new_state == AS_HV) {
+        	error_state_cnt = 0;
+        	EBS_FSM_Event(new_state);
+            pre_AS_state = new_state;
+            new_state = 0xFF;
+        }
         else if (new_state != 0xFF){
-        	if (error_state_cnt < 3)
+        	if (error_state_cnt < 10)
         		error_state_cnt++;
         	new_state = 0xFF;
         }
@@ -299,12 +305,13 @@ void EBS_FSM() {
         }
         else if (new_state != 0xFF){
         	error_state_cnt++;
-        	new_state = 0xFF;
-        	if (error_state_cnt >= 3) {
-        		error_state_transition = 1;
+
+        	if (error_state_cnt >= 10) {
+        		error_state_transition = new_state;
             	EBS_FSM_Event(new_state);
             	ebs_emergency();
         	}
+        	new_state = 0xFF;
         }
         break;
     case AS_Ready:
@@ -351,12 +358,13 @@ void EBS_FSM() {
         }
         else if (new_state != 0xFF){
         	error_state_cnt++;
-        	new_state = 0xFF;
-        	if (error_state_cnt >= 3) {
-        		error_state_transition = 1;
+
+        	if (error_state_cnt >= 10) {
+        		error_state_transition = new_state;
             	EBS_FSM_Event(new_state);
             	ebs_emergency();
         	}
+        	new_state = 0xFF;
         }
         break;
     case AS_Driving:
@@ -428,12 +436,13 @@ void EBS_FSM() {
         }
         else if (new_state != 0xFF){
         	error_state_cnt++;
-        	new_state = 0xFF;
-        	if (error_state_cnt >= 3) {
-        		error_state_transition = 1;
+
+        	if (error_state_cnt >= 10) {
+        		error_state_transition = new_state;
             	EBS_FSM_Event(new_state);
             	ebs_emergency();
         	}
+        	new_state = 0xFF;
         }
         break;
     case AS_Finished:
@@ -450,12 +459,13 @@ void EBS_FSM() {
     	}
     	else if (new_state != 0xFF) {
         	error_state_cnt++;
-        	new_state = 0xFF;
-        	if (error_state_cnt >= 3) {
-        		error_state_transition = 1;
+
+        	if (error_state_cnt >= 10) {
+        		error_state_transition = new_state;
             	EBS_FSM_Event(new_state);
             	ebs_emergency();
         	}
+        	new_state = 0xFF;
     	}
         break;
     case AS_Emergency:
